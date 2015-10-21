@@ -1,0 +1,29 @@
+//
+//  PrefixHeader.pch
+//  WeChat 6.3.1
+//
+//  Created by RenSihao on 15/10/14.
+//  Copyright © 2015年 RenSihao. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#pragma mark - 导入其他头文件
+
+#import "macros.h"
+
+
+
+
+
+
+
+
+
+
+#endif /* PrefixHeader_pch */
